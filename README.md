@@ -4,6 +4,8 @@ Licence fondamentale de mathematique
 
 Etudient en Genie logiciel chez ALX & Holberton School
 
+![](fig.png)
+
 # réseaux sociaux
 
 <a href="https://discord.com/channels/@__hydromel#7283"><img src="https://camo.githubusercontent.com/9c1f6abe034a366f0b32065ddd7016cfa744156cb1dfd111f9921ff04d9b21b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333732383944412e7376673f6c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465"></a>
