@@ -23,6 +23,8 @@ Etudient en Genie logiciel chez ALX & Holberton School
 
 <br>
 
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=harkinder-dark&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 # Pensées
 
 l'intelligence ou l'état de pre-disposition n'est qu'un atout d'une valeur inextimable mais pour atteindre les hauteurs aucun préréquis n'existe, simplement un engagement a ne s'arreter qu'après avoir reussi car l'échec n'existe que pour ceux qui abandonne.
