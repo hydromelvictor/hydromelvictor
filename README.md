@@ -24,6 +24,7 @@ Etudient en Genie logiciel chez ALX & Holberton School
 <br>
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=harkinder-dark&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harkinder-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Pensées
 
