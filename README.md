@@ -1,4 +1,4 @@
-# Victor Doledji alias Hydromel
+# Hydromel Victor Doledji
 
 Licence fondamentale de mathematique
 
