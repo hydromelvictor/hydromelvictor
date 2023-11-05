@@ -1,8 +1,6 @@
 # Hydromel Victor Doledji
 
-Licence fondamentale de mathematique
-
-Etudient en Genie logiciel chez ALX & Holberton School
+Licence fondamentale de mathematique | ALX Software engineer back end graduate | back end engineer at Opticodev
 
 ![](fig.png)
 
@@ -23,8 +21,8 @@ Etudient en Genie logiciel chez ALX & Holberton School
 
 <br>
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=harkinder-dark&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harkinder-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=hydromelvictor&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hydromelvictor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Pensées
 
