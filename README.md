@@ -14,10 +14,8 @@ My special programming language is python and currently I'm backend developer at
   <p align="center">
     <a href="https://tublian.com/profile/hydromelvictor">
       <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/hydromelvictor?type=with_score" alt="Streetcred">
-    </a>
+    </a><a href="https://www.tublian.com/profile/hydromelvictor?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/hydromelvictor?type=without_score"></a>
   </p>
-  
-<a href="https://www.tublian.com/profile/hydromelvictor?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/hydromelvictor?type=without_score"></a>
 
 ### My Stack:
 
