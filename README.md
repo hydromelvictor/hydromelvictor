@@ -5,7 +5,7 @@
 ### Bio:
 
 Hi, I'm Software Engineer Backend with bachelor of mathematics.
-My special programming language is python and currently I'm backend developer at Opticodev 
+My special programming language is python and javascript technologies.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hydromelvictor&column=5)](https://github.com/ryo-ma/github-profile-trophy)
